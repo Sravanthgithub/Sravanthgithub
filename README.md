@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sravanthgithub
+- 👋 Hi, I’m @Sravanth
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA & Web Dev
 - 📫 How to reach me kurmalasravanth123@gmail.com
 
 <!---
