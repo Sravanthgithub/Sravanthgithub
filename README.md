@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sravanth
-- 👀 I’m interested in Computer Programming
+- 👀 I’m interested in Competetive Programming & AI/ML
 - 🌱 I’m currently learning DSA & Web Dev
 - 📫 How to reach me --> srisravanth.k20@iiits.in
 
