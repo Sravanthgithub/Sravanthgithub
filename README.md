@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sravanth
+- 👋 Hi, I’m @Sravanth, Sophomore at IIIT SriCity in E.C.E
 - 👀 I’m interested in `Machine Learning`
 - 🌱 I’m currently learning `DSA` & `ML`
 - 📫 How to reach me --> srisravanth.k20@iiits.in
