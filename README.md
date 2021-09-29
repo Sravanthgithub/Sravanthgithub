@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sravanth Kurmala</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **ML/DS**
+- 🌱 I’m currently learning **ML/DL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sravanthgithub](https://github.com/Sravanthgithub)
 
