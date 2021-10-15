@@ -5,9 +5,13 @@
 
 - 🌱 I’m currently learning **ML/DL**
 
+- 🤩 Areas of Interests - Machine Learning & Computer Vision
+
 - 👨‍💻 All of my projects are available at [https://github.com/Sravanthgithub](https://github.com/Sravanthgithub)
 
 - 📫 How to reach me **kurmalasravanth123@gmail.com**
+
+- 🧐 Familiar with - Python, C/C++, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
