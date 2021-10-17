@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kurmalasravanth123@gmail.com**
 
-- 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, Matlab
+- 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
