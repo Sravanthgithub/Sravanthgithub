@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sravanthgithub](https://github.com/Sravanthgithub)
 
-- 📫 How to reach me **kurmalasravanth123@gmail.com**
+- 📫 How to reach me **srisravanth.k20@iiits.in**
 
 - 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask
 
