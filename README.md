@@ -13,6 +13,8 @@
 
 - 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask
 
+- 🙄 Basic Knowledge - Tensorflow, Keras, Pytorch
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/srav1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srav1911" height="30" width="40" /></a>
