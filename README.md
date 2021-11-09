@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **srisravanth.k20@iiits.in**
 
-- 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask
+- 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask, HTML, CSS
 
 - 🙄 Basic Knowledge - Tensorflow, Keras, Pytorch
 
