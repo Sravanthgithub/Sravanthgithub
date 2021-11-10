@@ -13,7 +13,7 @@
 
 - 🧐 Familiar with - Python, C/C++, Java, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask, HTML, CSS
 
-- 🙄 Basic Knowledge - Tensorflow, Keras, Pytorch
+- 🙄 Basic Knowledge - Tensorflow, Keras
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
