@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning `Tensorflow`
 
-- 🤩 Areas of Interests - Machine Learning, Deep Learning & Backend Development
+- 🤩 Areas of Interests - Machine Learning, Deep Learning & Computer Vision
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sravanthgithub](https://github.com/Sravanthgithub)
 
