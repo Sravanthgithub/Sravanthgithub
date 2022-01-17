@@ -1,5 +1,5 @@
 <h1 align="">Sup Nerds! 👋, I'm Sravanth </h1>
-<h3 align="">Machine Learning Enthusiast, may be a Future Developer</h3>
+<h3 align="">Machine Learning Enthusiast</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sravanthgithub&label=Profile%20views&color=0e75b6&style=flat" alt="Sravanth Kurmala" /> </p>
 
