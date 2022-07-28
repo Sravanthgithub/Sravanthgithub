@@ -3,7 +3,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sravanthgithub&label=Profile%20views&color=0e75b6&style=flat" alt="Sravanth Kurmala" /> </p>
 
-- 🌱 I’m currently learning `Tensorflow`
+- 🌱 I’m currently learning `Node` and deep diving into `CV` and `NLP`
 
 - 🤩 Areas of Interests - Machine Learning, Deep Learning & Computer Vision
 
