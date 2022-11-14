@@ -3,7 +3,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sravanthgithub&label=Profile%20views&color=0e75b6&style=flat" alt="Sravanth Kurmala" /> </p>
 
-- 🌱 I’m currently learning `Node` and deep diving into `CV` and `NLP`
+- 🌱 I’m currently diving deep into Transformers and GANs
 
 - 🤩 Areas of Interests - Machine Learning, Deep Learning & Computer Vision
 
@@ -13,7 +13,6 @@
 
 - 🧐 Familiar with - Python, C/C++, Tensorflow, Keras, PyTorch, Fast-AI Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Git & Github, HTML, Matlab, Flask, HTML, CSS
 
-- 🙄 Basic Knowledge - Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
