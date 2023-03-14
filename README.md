@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently diving deep into Transformers and GANs
 
-- 🤩 Areas of Interests - Machine Learning, Deep Learning & Computer Vision
+- 🤩 Areas of Interests - Machine Learning, Deep Learning, Computer Vision & Natural Language Processing.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sravanthgithub](https://github.com/Sravanthgithub)
 
